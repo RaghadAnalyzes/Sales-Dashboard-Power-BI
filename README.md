@@ -19,3 +19,7 @@ This project contains an interactive Power BI dashboard for analyzing sales perf
 
 ## 📌 Notes:
 - Sample data used for demonstration purposes
+
+## 📷 Dashboard Preview
+ ![Dashboard Screenshot] (https://github.com/RaghadAnalyzes/Sales-Dashboard-Power-BI/blob/main/Sales%20Dashborad.png)
+ 
